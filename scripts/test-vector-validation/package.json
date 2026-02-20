@@ -2,6 +2,6 @@
   "name": "test-vector-validation",
   "type": "module",
   "dependencies": {
-    "ajv": "8.12.0"
+    "ajv": "8.18.0"
   }
 }
