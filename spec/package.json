@@ -9,7 +9,7 @@
     "url": "git://github.com/TBD54566975/web5-spec"
   },
   "dependencies": {
-    "spec-up": "^0.10.7"
+    "spec-up": "^0.11.0"
   },
   "devDependencies": {
     "del-cli": "^4.0.1"
